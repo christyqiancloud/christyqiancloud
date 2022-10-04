@@ -5,6 +5,7 @@ Languages I'm Learning
 - {🐍} Python 
 - {🎨} CSS 
 - {🧩} HTML 
+
 Languages I hope to learn soon
 - {🔖} Java
 - {☕} Javascript 
